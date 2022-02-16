@@ -94,6 +94,8 @@ network {
 
 ### <a name="namespace">Namespace Configuration</a>
 
+Đường dẫn tệp cấu hình mặc định **/etc/aerospike/aerospike.conf**
+
 Cú pháp cấu hình đơn giản một namespace trong aerospike
 
 ```
